@@ -74,3 +74,15 @@ Used the following config:
 
 - Used mean blending
 - Executed on the second half of splitted local training set when running local validation
+
+## Didn't Work & Improve
+
+- Weekday-Specific aggregations
+- Word2Vec features
+- Different models (CatBoost, LGBM)
+- Comprehensive pair scores (because of OOM errors)
+- Max-median blending
+- Early-stopping
+- Higher negative fractions
+- Different objective metrics
+- Different fold counts
